@@ -5,10 +5,10 @@ permalink: /about/
 feature-img: "assets/img/sample_feature_img_2.png"
 ---
 
+You are looking at my private website. 
+
+I am Max, currently a M.Sc. Student at KTH - Royal Institute of Technology in Stockholm, Sweden.
 
 
-Type Theme is a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
-
-Head over to the [theme's documentation](https://rohanchandra.github.io/project/type/) for much more information about Type Theme or to install this theme on your own Jekyll site.
-
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+## Contact
+If you want to get in touch with me, send me an <a href="mailto:{{ site.email }}">email</a>.
