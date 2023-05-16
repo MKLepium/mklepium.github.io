@@ -39,7 +39,7 @@ Jekyll website *without* a subpath (such as a GitHub Pages website for a given u
 ```yml
 # SITE CONFIGURATION
 baseurl: ""
-url: "https://username.github.io"
+url: "https://mklepium.github.io"
 ```
 
 Jekyll website *with* subpath (like the Type Theme demo page):
@@ -47,7 +47,7 @@ Jekyll website *with* subpath (like the Type Theme demo page):
 ```yml
 # SITE CONFIGURATION
 baseurl: "/sub-directory"
-url: "https://username.github.io/"
+url: "https://mklepium.github.io/"
 ```
 
 Please configure this in `_config.yml` before using the theme.
