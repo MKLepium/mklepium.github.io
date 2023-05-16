@@ -6,7 +6,7 @@ url: "https://mklepium.github.io"
 theme_settings:
   # Meta
   title: Maximilian Georg Kurzawski
-  avatar: assets/img/avatar.jpeg
+  avatar: 
   favicon: 
   gravatar: # Email MD5 hash
   description:  # used by search engines
@@ -14,7 +14,7 @@ theme_settings:
   # Header and footer text
   header_text: >
      <p>Welcome to my page</p>
-  header_text_feature_image: assets/img/kth_sunny.jpeg
+  header_text_feature_image: 
   footer_text: >
    Powered by <a href="https://pages.github.com/">GitHub Pages</a> and <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
 
