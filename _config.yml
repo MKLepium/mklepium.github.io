@@ -14,7 +14,7 @@ theme_settings:
   # Header and footer text
   header_text: >
      <p>Welcome to my page</p>
-  header_text_feature_image:
+  header_text_feature_image: kth_sunny.jpeg
   footer_text: >
    Copyright 2023
 
